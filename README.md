@@ -17,7 +17,7 @@ Evaluation: The model was evaluated using precision, recall, F1-score, and AUC-R
 
 ## Model Precision
 
-![image](https://github.com/vansh-py04/Fraud-Detection-and-Insights-Analysis/assets/128248352/a5d2b330-98a5-4aec-ab9f-4f74eb356531)
+![image](https://github.com/vansh-py04/Fraud-Detection-and-Insights-Analysis/assets/128248352/14ec23e6-6f46-4bad-9469-5e4ed54d03a5)
 
 
 
